@@ -47,7 +47,7 @@ increases -> decrease in crystal size.([due to extensive oxidation][2] and [due 
 4. GR, GO, RGO의 구조적 변화 설명
 5. Mxene 설명?(MAX -> MXene 설명하는 것이 바람직함.)
 
-# Hello, World
+# Hello, World!!
 
 [1]: ./nnano.2013.46%20(1).pdf "natureR"
 [2]: ./gr%26go.pdf "gr&go"
