@@ -5,7 +5,7 @@ Graphene : 2-d building block for $sp^{2}$  carbon allotrpes.
 $sp^2$ : A carbon atom bound to three atoms and forms a flat trigonal or triangular arrangement with 120° angles between bonds.
 
 # Graphene Phonon mode
-<img src=./SLG%20phonon%20mode.jpg width=400px>
+<img src=./images/SLG%20phonon%20mode.jpg width=400px>
 <!-- ![Single layere graphene(SLG) Phonon modes]() -->
 
 Graphene has two atoms per unit cell -> six normal modes are possible.(three vibration mode - transverse, longitudial, out-plane. 8 are possible but 2 are degenerated.) 
@@ -16,7 +16,7 @@ Graphene has two atoms per unit cell -> six normal modes are possible.(three vib
 Here, only $E_{2g}$ phonons are Raman active. $B_{2g}$ is not raman active. (Others are not raman active but infrared active.)
 
 # Graphene Raman Spectum
-<img src = ./Raman%20Spectrum.jpg width = 400px>
+<img src = ./images/Raman%20Spectrum.jpg width = 400px>
 <!-- ![Raman Spectrum]() -->
 
 - D peak ~1330cm ${}^{-1}$ : breathing modes of six-atoms rings and a **defeat** in a 
