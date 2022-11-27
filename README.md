@@ -41,11 +41,13 @@ increases -> decrease in crystal size.([due to extensive oxidation][2] and [due 
 
 # MXene 
 <img src = ./images/MXene.png width = 400px>
+<img src = ./images/Raman%20MXene,%20MAX.jpg width = 415px>
 
-- peaks ~ 279, 615 cm ${}^{-1}$ : vibration modes of Ti and C and surface terminating functional groups(Ti-O, Ti-C, Ti-OH).
-- peaks ~ 420 cm ${}^{-1}$ : in-plane Ti-O, Ti-OH surface terminating functional groups.
+- peaks ~ 279, 615 cm ${}^{-1}$ : vibration modes of Ti and C and surface terminating functional groups(**Ti-O, Ti-C, Ti-OH**). In MAX phase these were assigned to the **vibration modes Ti and Al**. And peak intensity decreased.
+- peaks ~ 420 cm ${}^{-1}$ : in-plane Ti-O, Ti-OH surface terminating functional groups. In MAX phase these was assigned to the vibration modes Ti and Al. And peak intensity decreased.
 - D peak ~1330cm ${}^{-1}$ : breathing modes of six-atoms rings and a **defeat** in a 
 - G peak ~1577cm ${}^{-1}$ : high-frequency energy **$E_{2g}$ phonon**. Thus, it is a stretching **C-C bonding**. (low-frequency energy $E_{2g}$ phonon for C mode absence in SLG)
+- peak ~ 98cm ${}^{-1}$ : disappear
 
 
 # Expected Presentation Outline
