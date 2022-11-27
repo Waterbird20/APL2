@@ -17,7 +17,6 @@ Here, only $E_{2g}$ phonons are Raman active. $B_{2g}$ is not raman active. (Oth
 
 # Graphene Raman Spectum
 <img src = ./images/Raman%20Spectrum.jpg width = 400px>
-<!-- ![Raman Spectrum]() -->
 
 - D peak ~1330cm ${}^{-1}$ : breathing modes of six-atoms rings and a **defeat** in a 
 - G peak ~1577cm ${}^{-1}$ : high-frequency energy **$E_{2g}$ phonon**. Thus, it is a stretching **C-C bonding**. (low-frequency energy $E_{2g}$ phonon for C mode absence in SLG)
@@ -40,6 +39,15 @@ Defects in graphene can result in ...
 $\frac{I_{D}}{I_{G}} \simeq \frac{C}{L_{A}} \simeq \frac{145}{L_{D}^{2}}$ where $C \simeq 4.4$ nm is constant, $L_{D}$ is defect distance.
 increases -> decrease in crystal size.([due to extensive oxidation][2] and [due to the resoration of sp2][3])
 
+# MXene 
+<img src = ./images/MXene.png width = 400px>
+
+- peaks ~ 279, 615 cm ${}^{-1}$ : vibration modes of Ti and C and surface terminating functional groups(Ti-O, Ti-C, Ti-OH).
+- peaks ~ 420 cm ${}^{-1}$ : in-plane Ti-O, Ti-OH surface terminating functional groups.
+- D peak ~1330cm ${}^{-1}$ : breathing modes of six-atoms rings and a **defeat** in a 
+- G peak ~1577cm ${}^{-1}$ : high-frequency energy **$E_{2g}$ phonon**. Thus, it is a stretching **C-C bonding**. (low-frequency energy $E_{2g}$ phonon for C mode absence in SLG)
+
+
 # Expected Presentation Outline
 1. Raman Spectroscopy 설명
 2. Graphene phonon mode 설명
@@ -47,7 +55,6 @@ increases -> decrease in crystal size.([due to extensive oxidation][2] and [due 
 4. GR, GO, RGO의 구조적 변화 설명
 5. Mxene 설명?(MAX -> MXene 설명하는 것이 바람직함.)
 
-# Hello, World!!
 
 [1]: ./nnano.2013.46%20(1).pdf "natureR"
 [2]: ./gr%26go.pdf "gr&go"
