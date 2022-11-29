@@ -29,6 +29,8 @@ In our experiment...
 <img src=./images/graphene_vibration%20mode.png width=400px>
 
 # Defects
+Defects contribute to many physical properties and are responsible not only for electric/optical properties in 2D materials, but also electronic structure and phonon modes.
+
 Defects in graphene can result in ...
 - D peak appears. $\frac{I_{D}}{I_{G}}$ increases
 - D ${}^{\prime}$ peak 
