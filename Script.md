@@ -63,9 +63,18 @@ Graphene의 unit cell은 원자 2개로 이루어져있음.
 D, G peak에 대한 설명은 위와 동일합니다. D peak는 breathing mode에서 defeat가 있을 때 발생하는 peak이고, G peak는 C-C bonding에서 발생하는 E2g phonon의 높은 frequency에 대응됩니다.
 
 ## Slide 12 : Defects
+말씀드렸다시피, GO, RGO의 D peak는 defect에 의해 형성됩니다. defect의 사전적인 정의는 crystal의 구조가 깨지는 것을 지칭합니다.
 
+Defect를 한국어로 번역하면 결점과 같이 되는데, 이런 어감과 달리 defect는 2차원 물질 상에서는 상당히 중요한 역할을 하게 됩니다. 2차원 물질의 전기적, 광학적 성질에 관여할 뿐만 아니라, 전자의 band structure나 phonon의 구조 역시 바뀌게 됩니다. 
+
+이번 실험에서 defect는 GR을 산화, 환원하는 과정에서 생겨났습니다. 이 과정에서 Defect가 발생했다고 생각할 수 있고요. 그래서 발생할 수 있는 결과는 앞에서 확인할 수 있었듯이 D, D', D+D' peak의 발생이었습니다. 그리고 peak의 크기가 폭이 커지고요, $I_{D}/I_{G}$ 의 값이 증가하게 됩니다. 이는 앞에서도 실험적으로 확인 가능했습니다.
 
 ## Slide 13
+이 그래프를 다시 확인해보시면, GR->GO->RGO의 순서로 D peak가 G peak보다 커지고 있음을 확인할 수 있습니다. 이때, 이 값은 crystal size에 반비례합니다. 이는 직관적으로 확인할 수 있는데, I(D)는 $L_{A}^{2}$에 비례하고, $L_{D}$가 주로 edge를 따라 생성됨을 고려할 때, $L_{A}$에 비례하기 때문입니다. C의 값은 실험적으로 측정가능한 값으로 알고 있습니다. 이 값의 [출저][1]는 아래와 같습니다. 
+
+주의할 점은, 이를 위에서 보았던 MAX phase, MX phase의 비교에 사용하는 것은 적절하지 않습니다. 이 결과는 2차원 물질의 비교에서만 유효하기 때문입니다.
+
 ## Slide 14
 
 
+[1]: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.61.14095 "1"
