@@ -32,7 +32,7 @@ Graphene의 unit cell은 원자 2개로 이루어져있음.
 ## Slide 8 : MXenes
 누가하든 여기 설명이 너무 붕뜰거 같은데,,
 
-## Slide 8, 9(8은 삭제하거나 순서를 바꿀수도?)
+## Slide 9, 10 : GO, RGO, Graphite
 **사기같지만,, 8페이지 왼쪽 그림 교체해야할듯?! 오른쪽이랑 실험 결과에서는ㄴ GO는 G peak intensity가 더 높아**
 
 이어서 발표를 진행하겠습니다. 
@@ -53,17 +53,17 @@ Graphene의 unit cell은 원자 2개로 이루어져있음.
 
 <!-- ## Slide 9 -->
  
-## Slide 10
-**ppt에서 순서 조정함**
+## Slide 11 : Ti2CTx - Experiment
 다음은 MXene인 Ti2CTx의 Raman spectum입니다. 크게 여기 표시된 바와 같이, 1000 이전의 3개의 피크가, 앞선 GR의 경우와 마찬가지로 D, G밴드가 관측됩니다.
 
-## Slide 11
+## Slide 12 : Ti2CTx
 (여기는 이후에 보충하겠습니다)
 279, 615쯤에 있는, peak는 Ti와 C 사이의 결합에서 오는 진동입니다.
 420에서 나타나는 peak 역시 Ti와 C 사이의 결합에서 오는 진동입니다. 
 D, G peak에 대한 설명은 위와 동일합니다. D peak는 breathing mode에서 defeat가 있을 때 발생하는 peak이고, G peak는 C-C bonding에서 발생하는 E2g phonon의 높은 frequency에 대응됩니다.
 
-## Slide 12
+## Slide 12 : Defects
+
 
 ## Slide 13
 ## Slide 14
