@@ -26,7 +26,7 @@ Here, only $E_{2g}$ phonons are Raman active. $B_{2g}$ is not raman active. (Oth
 
 In our experiment...
 
-<img src=./graphene_vibration%20mode.png width=400px>
+<img src=./images/graphene_vibration%20mode.png width=400px>
 
 # Defects
 Defects in graphene can result in ...
