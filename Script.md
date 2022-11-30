@@ -30,7 +30,6 @@
 마지막으로 맥신에 대해 소개하겠습니다. 맥신은 전이금속과 탄소 혹은 질소, 그리고 말단기로 이루어져 있는 층상구조의 물질입니다. 구조식은 M_n+1X_nTx로 표기하고 각각 M은 전이금속 X는 탄소나 질소, T는 말단그룹을 나타냅니다. 흑연에서 그래핀이 얻어지는 것처럼 맥신 또한 위 구조에서 A그룹의 원소로 층으로 연결된 구조의 맥스 페이즈로부터 A원소 층을 분리하는 에칭을 통해 생산됩니다. A그룹은 주로 13,14족 원소로 보통 알루미늄이 많이 쓰입니다. 
 
 ## Slide 9, 10 : GO, RGO, Graphite
-**사기같지만,, 8페이지 왼쪽 그림 교체해야할듯?! 오른쪽이랑 실험 결과에서는ㄴ GO는 G peak intensity가 더 높아**
 
 이어서 발표를 진행하겠습니다. 
 저희는 강대준 교수님 연구실에 요청하여 GR, GO, RGO, Ti2CTx(MXene)의 라만 데이터를 받았습니다. 저는 이 데이터를 분석하여, 물질의 화학적 구성이 어떻게 변하는지를 확인해보겠습니다.
@@ -48,7 +47,6 @@
 
 저희가 얻었던 결과와 마찬가지로, GR에서는 낮은 D peak와 높은 G, 2D peak를 확인할 수 있습니다. 이에 비해 GO에서는 D peak가 커지고 2D, D+D' peak가 등장하죠. RGO의 경우도 마찬가지로, 높은 D peak가 나타나고 2D, D+D' peak가 나타나는 것을 확인할 수 있습니다. RGO에서 G peak의 intensity가 더 낮아진 것도 잘 일치하고요.
 
-<!-- ## Slide 9 -->
  
 ## Slide 11 : Ti2CTx - Experiment
 다음은 MXene인 Ti2CTx의 Raman spectum입니다. 크게 여기 표시된 바와 같이, 1000 이전의 3개의 피크가, 앞선 GR의 경우와 마찬가지로 D, G밴드가 관측됩니다.
@@ -59,38 +57,60 @@
 420에서 나타나는 peak 역시 Ti와 C 사이의 결합에서 오는 진동입니다. 
 D, G peak에 대한 설명은 위와 동일합니다. D peak는 breathing mode에서 defeat가 있을 때 발생하는 peak이고, G peak는 C-C bonding에서 발생하는 E2g phonon의 높은 frequency에 대응됩니다.
 
-## Slide 13 : C peak
+## Slide 13 : Thickness of the material
+이제 Raman spectroscopy에서 확인할 수 있는 화학적 구조에 대해 말씀드리겠습니다. 먼저 GR의 두께를 Raman에서 추정할 수 있습니다.
+첫째로, C peak입니다. 앞서 G mode가 E2g phonon 모드의 높은 진동수에 대응된다고 말씀드린 바 있습니다. C peak는 같은 phonon mode의 낮은 진동수에서 발견되는 peak입니다.
+이 peak는 층간 coupling에 민감하다고 하는데요, layer가 1개만 있는 Graphene의 경우 C peak는 관찰되지 않는다고 합니다. C peak의 위치는 42로 알려져있는데요, layer가 많을수록 peak의 위치가 뒤로 밀려나는 것으로 알려져있습니다. 저희의 경우 peak가 48~49 정도에서 발견되었고, 10개 이상의 layer가 있으리라 추정하고 있습니다.
+
+한편, GR이 여러개의 층을 갖는 증거는 2D peak의 위치에서도 찾을 수 있습니다. 2D peak도 마찬가지로, 층간 coupling에 민감하다고 알려져있고, SLG의 경우 2D peak는 2680에서 관찰됩니다.
+저희 실험에서는 2710에서 나타났는데, SLG가 아니라는 증거이기도 합니다.
 
 ## Slide 14 : Defects
-말씀드렸다시피, GO, RGO의 D peak는 defect에 의해 형성됩니다. defect의 사전적인 정의는 crystal의 구조가 깨지는 것을 지칭합니다.
+다음으로, 계속 언급드렸던 Defect입니다. 
+말씀드렸다시피, GO, RGO의 D peak는 defect에 의해 형성됩니다. defect의 사전적인 정의는 crystal의 구조가 깨지는 것을 지칭합니다. 다음 그림에서 보실 수 있듯이, lattice가 깨지는 것을 확인할 수 있습니다.
 
 Defect를 한국어로 번역하면 결점과 같이 되는데, 이런 어감과 달리 defect는 2차원 물질 상에서는 상당히 중요한 역할을 하게 됩니다. 2차원 물질의 전기적, 광학적 성질에 관여할 뿐만 아니라, 전자의 band structure나 phonon의 구조 역시 바뀌게 됩니다. 
 
-이번 실험에서 defect는 GR을 산화, 환원하는 과정에서 생겨났습니다. 그래서 발생할 수 있는 결과는 앞에서 확인할 수 있었듯이 D, D', D+D' peak의 발생이었습니다. 그리고 peak의 크기가 폭이 커지고요, $I_{D}/I_{G}$ 의 값이 증가하게 됩니다. 이는 앞에서도 실험적으로 확인 가능했습니다.
+그래서 발생할 수 있는 결과는 앞에서 확인할 수 있었듯이 D, D', D+D' peak의 발생이었습니다. 그리고 peak의 크기가 폭이 커지고요, $I_{D}/I_{G}$ 의 값이 증가하게 됩니다. 
 
 ## Slide 15
-이 그래프를 다시 확인해보시면, GR->GO->RGO의 순서로 D peak가 G peak보다 커지고 있음을 확인할 수 있습니다. 이때, 이 값은 crystal size에 반비례합니다. 이는 직관적으로 확인할 수 있는데, I(D)는 $L_{A}^{2}$에 비례하고, $L_{D}$가 주로 edge를 따라 생성됨을 고려할 때, $L_{A}$에 비례하기 때문입니다. C의 값은 실험적으로 측정가능한 값으로 알고 있습니다. 이 값의 [출저][1]는 아래와 같습니다. 
+이 그래프를 다시 확인해보시면, GR->GO->RGO의 순서로 D peak가 G peak에 비해 커지고 있음을 확인할 수 있습니다. 이때, 이 값은 crystal size에 반비례합니다. 이는 직관적으로 확인할 수 있는데, I(D)는 $L_{A}^{2}$ 에 비례하고, defect가 주로 edge를 따라 생성됨을 고려할 때, $L_{A}$ 에 비례하기 때문입니다. C의 값은 실험적으로 측정가능한 값으로 알고 있습니다. 이 값의 [출저][1]는 아래와 같습니다. 
 
-
+다음은 ID와 IG의 비를 통해 Lattice size를 계산한 결과입니다. GR->GO로 가면서 LC가 10% 정도로 줄었고요. GO에서 RGO로 가면서 60%정도로 줄었습니다. 이는 Defect에 의해 crystal이 여러개로 쪼개졌다고 생각할 수 있습니다. 따라서 이번 실험에서 GR을 산화, 환원하는 과정에서 defect가 발생한다고 할 수 있습니다.. 
 
 ## Slide 16 : Tx2CTx
-92 peak disappear : Ti-Al
-Sp2 structure is weaken.
+저희가 MAX phase에 대한 데이터를 받지 못해, 비교하며 설명할 수는 없지만, 레퍼런스와 비교하며 다음과 같은 사실을 알아낼 수 있었습니다.
+중앙에 있는 이 그래프에 따르면, MAX phase에 존재하는 98 peak가 MXene에서 없어지는 것을 확인할 수 있습니다. 98 peak는 MXene의 모체인 MAX phase, Ti2AlC에서 Ti-Al bond에서 나오는 것으로 알려져 있습니다. 저희 실험에서는 이 앞에 2개의 peak가 존재하긴 하는데요, 각각 42와 140정도로 98 peak와는 무관했습니다. 따라서 Al이 etching되어 이 peak가 사라졌다고 할 수 있습니다.
+
+한편 G peak가 약해진 것 역시 확인할 수 있습니다. MAX phase보다 G peak가 더 약해졌는데요, 이는 sp2 structure가 작아졌다고 할 수 있습니다.
 
 주의할 점은, 이를 위에서 보았던 MAX phase, MX phase의 비교에 사용하는 것은 적절하지 않습니다. 이 결과는 2차원 물질의 비교에서만 유효하기 때문입니다.
 
-## Slide 17
-GR/GO/RGO
-Defect increases, Crystal size decreases -> I(D) / I(G)
-They are Multi-layer
+## Slide 17 GR/GO/RGO
+앞에서 분석했던 내용을 정리하겠습니다. 
+GR, GO, RGO의 Raman Spectroscopy 분석을 통해 Sample의 layer와 Defect에 대한 정보를 얻을 수 있었습니다. 
+C peak가 48쯤에 존재하고, 2D peak가 2710로 SLG, DLG보다 다소 뒤로 밀려있는 것으로 볼 때, 10개 이상의 층으로 이루어져있다고 예상할 수 있습니다.
 
-Mxenes
-A material(A) is etched.
-Sp2 structure is weaken. 
+둘째로 산화와 환원 과정이 defeat를 만들고 이에 따라 Crystal size가 감소했음을 확인할 수 있었습니다. 이를 D peak와 G peak의 비를 계산해봄으로써 확인할 수 있었습니다.
 
 
-Using Raman Spectroscopy in this manner, change in chemical structure can be well detected. Also, there are more calculatable physical quantities. However, in this way, it is hard to see the band structure of electrons and phonons or the symmetry of the system. Raman spectroscopy is the result of them, the reverse process is quite different. To analyze the material, not only can Raman be used in a different manners, but there are many complementary methods such as FT-IR, TEM, STEM, that makes it possible to see Raman inactive modes.
+## Slide 18 Mxenes
+MXene의 경우 Al 원자들이 etching 되었음을 92 peak가 사라진 것으로부터 확인할 수 있었습니다. 또한 G peak가 감소하는 것으로부터 탄소에 의한 sp2 structure가 줄어들었음을 확인 했습니다.
 
+이렇듯, 저희는 Raman spectroscopy로부터, 물질의 구조적 특징을 확인할 수 있었습니다. 또한, Crystal size와 같이 정량적으로 계산할 수 있는 물리량도 있었습니다. 
+그런데, 그럼에도 불구하고 Raman으로 확인할 수 없는 것들을 말씀드리고자 합니다. 이 부분은 저희가 다른 레퍼런스를 뒤져보면서 알았던 내용들인데요, Raman scattering이 phonon과 photon의 scattering인데요, 그렇다고 해서 우리가 Raman을 통해 모든 electron band, phonon의 Brillouin Zone을 모두 볼 수 있는 것은 아닙니다.
 
+## Slide 19
+앞에서 소개드렸던 phonon mode로 돌아가서요. GR에서 확인할 수 있는 Phonon mode는 E2g mode가 전부입니다. 나머지는 Raman으로 확인할 수 없는 것들입니다.  
+그런데, 이 중 E1u, B2g phonon은 IR active 입니다. 황정식 교수님 연구실에서 FTIR을 활용해서 물성을 측정하고 있는 것으로 알고 있습니다.
 
-[1]: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.61.14095 "1"
+## Slide 20
+이와 같이 저희가 알고있는 FTIR, XRD, ND, TEM/STEM 등 다양한 관측방법들이 물성을 분석하기 위해 상호보완적으로 이용될 수 있습니다. 이 모두를 잘 알고 있는 것은 아니지만, 각 측정기법들 모두 이점을 갖고 있습니다. XRD와 ND가 모두 short-range에 민감한데, XRD는 전자에, ND는 핵에 보다 더 scattering을 일으킨다는 차이가 있죠.
+이들에 비해 Raman은 물질의 symmetry와 화학적 구조를 분석하는데에 이점이 있다고 배웠습니다.
+어쨌든 Raman을 통해 물질의 화학적 구조를 분석해보았습니다. 
+
+## Slide 21
+다음은 저희가 참고했던 자료들입니다. 
+
+## Slide 22
+이상으로 발표를 마치고 질문 받도록 하겠습니다. 감사합니다. 
